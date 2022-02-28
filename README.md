@@ -1,4 +1,5 @@
-# DeepLearning Introduction
+# A gentle introduction to Deep Learning using PyTorch
+... (*Work In Progress*)
 
 ## Prerequisites
 
